@@ -1,3 +1,4 @@
 git config --global user.email "you@example.com"
 git config --global  --list
 git add .
+git commit -m "resolved task about something"
